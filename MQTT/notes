@@ -1,4 +1,4 @@
-#MQTT 
+# MQTT 
 - based on publish/subscribe system
 - publish the **topic** , subscribe to the **topic**
 - one topic can work for many devices 

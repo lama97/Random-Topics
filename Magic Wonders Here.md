@@ -1,4 +1,7 @@
-# sudo apt update on ubuntu gives "invalid repositories"
+# Magic Wonders Here 
+Including all these helpful tricks to debug annoying hurdles I face with Linux/Ubuntu:3 
+
+## sudo apt update on ubuntu gives "invalid repositories"
 **solution** : try this on the cmd
 ````
 sudo apt-get clean
